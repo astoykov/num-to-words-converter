@@ -6,7 +6,7 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple App.
+ * Unit tests
  */
 public class Num2WordsConverterTest 
     extends TestCase
